@@ -1,9 +1,6 @@
 # Data Engineer
-![test](https://github.com/favicon.ico)
-<img src="https://github.com/favicon.ico" width="48">
-## Portfolio
-[![notion](https://user-images.githubusercontent.com/76417472/183004164-1111b575-5da6-4779-8c76-5f639c7c8c90.svg)](https://prickly-wednesday-22c.notion.site/Hello-My-name-is-KBAE-93880f828cc344e4b910eb3f7255e050)
 
+## Portfolio
 <a href="https://prickly-wednesday-22c.notion.site/Hello-My-name-is-KBAE-93880f828cc344e4b910eb3f7255e050"><img src="https://user-images.githubusercontent.com/76417472/183004164-1111b575-5da6-4779-8c76-5f639c7c8c90.svg" width="48"></a>
 
 
