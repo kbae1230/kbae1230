@@ -1,5 +1,5 @@
 # Data Engineer, KBAE
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/kbae/Data-Engineer-KBAE-31be595f3e4b4c86a005ac9d86825859)](https://www.notion.so/kbae/Data-Engineer-KBAE-31be595f3e4b4c86a005ac9d86825859)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/kbae/Data-Engineer-KBAE-31be595f3e4b4c86a005ac9d86825859)](https://kbae.notion.site/kbae/Data-Engineer-KBAE-31be595f3e4b4c86a005ac9d86825859)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cok2117@gmail.com)](mailto:cok2117@gmail.com)
 
 ## About me
